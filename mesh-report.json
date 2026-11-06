@@ -1,0 +1,108 @@
+{
+  "source_model": "Hoolock-hoolock-f-AMNH-83425-cranium-einscan",
+  "source_sha256": "0eb9c886c3b45301f6c1602a3f94ca470be6270f3f63d79b91e6c3c26cd60ecc",
+  "scale_factor": 155.61753806954988,
+  "assembled_dimensions_mm": [
+    103.95794821856062,
+    95.35563796896605,
+    150.0
+  ],
+  "pieces": [
+    {
+      "file": "stl/piece_0.stl",
+      "source_geometry": "geometry_0",
+      "triangles": 92580,
+      "dimensions_mm": [
+        31.688537305493718,
+        44.21314605444388,
+        47.44146461577733
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "stl/piece_1.stl",
+      "source_geometry": "geometry_1",
+      "triangles": 103214,
+      "dimensions_mm": [
+        42.41110109731971,
+        45.961467587733814,
+        29.462605063133573
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "stl/piece_2.stl",
+      "source_geometry": "geometry_2",
+      "triangles": 57754,
+      "dimensions_mm": [
+        32.2746834324104,
+        32.26708213715092,
+        30.711817242291506
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "stl/piece_3.stl",
+      "source_geometry": "geometry_3",
+      "triangles": 64738,
+      "dimensions_mm": [
+        37.89272296019697,
+        28.160460343840114,
+        31.779820096185986
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "stl/piece_4.stl",
+      "source_geometry": "geometry_4",
+      "triangles": 267006,
+      "dimensions_mm": [
+        53.58930027796902,
+        68.87710565308807,
+        55.85197549578625
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "stl/piece_5.stl",
+      "source_geometry": "geometry_5",
+      "triangles": 44168,
+      "dimensions_mm": [
+        25.03601146480005,
+        30.0608583629336,
+        29.280845583111017
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "stl/piece_6.stl",
+      "source_geometry": "geometry_6",
+      "triangles": 119576,
+      "dimensions_mm": [
+        52.86999061192884,
+        39.867598252267896,
+        39.00144828095401
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "stl/piece_7.stl",
+      "source_geometry": "geometry_7",
+      "triangles": 789418,
+      "dimensions_mm": [
+        96.87925012426115,
+        93.82327899069392,
+        150.0
+      ],
+      "watertight": true,
+      "consistent_winding": true
+    }
+  ]
+}
